@@ -1,0 +1,15 @@
+
+h1{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(99, 33, 33);
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+ul{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+body{
+    background-color: rgb(248, 242, 226);
+}
